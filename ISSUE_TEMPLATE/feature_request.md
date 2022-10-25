@@ -4,11 +4,11 @@ about: A new feature to be implemented
 label: enhancement
 ---
 
-**Type of issue**
-- [ ] New Feature Implementation
+**Type of Issue**  
+- [ ] New Feature Implementation
 - [ ] Addition / Enhancement / Improvement
 
-**Types**  
+**Type of Work**  
 - [ ] Screen  
 - [ ] Widget  
 - [ ] Business Logic (Service, Repository, BloC)  
