@@ -10,7 +10,7 @@ label: enhancement
 
 **Type of Work**  
 - [ ] Screen  
-- [ ] Widget  
+- [ ] Widget/Component  
 - [ ] Business Logic (Service, Repository, BloC)  
 - [ ] Backend Service
 - [ ] Documentation
