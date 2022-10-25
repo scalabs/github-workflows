@@ -2,6 +2,7 @@
 name: Feature request
 about: A new feature to be implemented
 label: enhancement
+title: Feature: 
 ---
 
 **Types**  
