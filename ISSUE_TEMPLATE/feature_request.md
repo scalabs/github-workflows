@@ -13,6 +13,7 @@ label: enhancement
 - [ ] Widget/Component  
 - [ ] Business Logic (Service, Repository, BloC)  
 - [ ] Backend Service
+- [ ] DevOps
 - [ ] Documentation
 
 **Description**  
