@@ -2,14 +2,18 @@
 name: Feature request
 about: A new feature to be implemented
 label: enhancement
-title: Feature: 
 ---
+
+**Type of issue**
+- [ ] New Feature Implementation
+- [ ] Addition / Enhancement / Improvement
 
 **Types**  
 - [ ] Screen  
 - [ ] Widget  
 - [ ] Business Logic (Service, Repository, BloC)  
 - [ ] Backend Service
+- [ ] Documentation
 
 **Description**  
 *Describe in simple sentences the functionality*  
